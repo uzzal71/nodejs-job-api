@@ -1,0 +1,9 @@
+Step 0:
+ - Open auth.js controller and create register and login functions are
+   both function module.exports = {register, login}
+
+Step 1:
+ - Open job.js controller and create getAllJobs, getJob, createJob
+   updateJob, deleteJob all functions module.exports = {getAllJobs, getJob, createJob, updateJob, deleteJob}
+
+Step 2:
