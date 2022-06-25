@@ -1,9 +1,33 @@
 Step 0:
- - Open auth.js controller and create register and login functions are
-   both function module.exports = {register, login}
+	 - Open auth.js controller and create register and login functions are both function module.exports = {register, login}
 
 Step 1:
- - Open job.js controller and create getAllJobs, getJob, createJob
-   updateJob, deleteJob all functions module.exports = {getAllJobs, getJob, createJob, updateJob, deleteJob}
+ 	- Open job.js controller and create getAllJobs, getJob, createJob updateJob, deleteJob all functions module.exports = {getAllJobs, getJob, createJob, updateJob, deleteJob}
 
 Step 2:
+	- Open auth.js route file. And create register, login route and link register, login controller and export route
+
+Step 3:
+	-  Open job.js route file, define all job controller function in job route file
+
+Step 4:
+	-
+
+Step 5:
+	-	
+
+Step 6:
+	-
+
+Step 7:
+	-
+
+Step 8:
+	- 
+
+Step 9:
+	- 
+
+Step 10:
+	-
+	
