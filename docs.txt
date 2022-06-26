@@ -11,10 +11,10 @@ Step 3:
 	-  Open job.js route file, define all job controller function in job route file
 
 Step 4:
-	-
+	- Open app.js file and define auth, jobs both router
 
 Step 5:
-	-	
+	- Now connection Database in app.js file before database connection please set MONGO_URI in .env file	
 
 Step 6:
 	-
