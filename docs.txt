@@ -17,7 +17,7 @@ Step 5:
 	- Now connection Database in app.js file before database connection please set MONGO_URI in .env file	
 
 Step 6:
-	-
+	- Opne User.js model define 
 
 Step 7:
 	-
