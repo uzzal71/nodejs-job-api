@@ -11,7 +11,9 @@ const getJob = async(req, res) => {
 }
 
 const createJob = async(req, res) => {
-    res.json(req.body);
+    req.body.createdBy = req.user.userId
+    const job = await Job.create(req.body)
+    res.status(StatusCodes.CREATED).json({ job })
 }
 
 const updateJob = async(req, res) => {
